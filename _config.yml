@@ -1,19 +1,19 @@
 # Site settings
 title: Nytrogen
 name: Nytrogen LLC
-subtitle: Story Explorations in Real Time Animaton
+subtitle: Accelerating Story Exploration in Real Time Animaton
 email:
 description: >
-
+Writing, thoughts, and experimentations in real time animation work flows.
 baseurl: ""
 url: ""
-twitter_username:
-github_username:
+twitter_username: nytrogenGFX
+github_username: nytrogen-gfx
 disqus_baseurl: ""
 disqus_shortname:
 permalink: :title
-cover: "/assets/header_image.jpg"
-logo: "/assets/nr-logo.jpg"
+cover: "/assets/2d/header_image.jpg"
+logo: "/assets/2d/nytrogen-logo.jpg"
 ga_tracking_id: ""
 
 # Build settings
