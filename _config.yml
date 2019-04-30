@@ -1,0 +1,45 @@
+# Site settings
+title: Nytrogen
+name: Nytrogen LLC
+subtitle: Story Explorations in Real Time Animaton
+email:
+description: >
+
+baseurl: ""
+url: ""
+twitter_username:
+github_username:
+disqus_baseurl: ""
+disqus_shortname:
+permalink: :title
+cover: "/assets/header_image.jpg"
+logo: "/assets/nr-logo.jpg"
+ga_tracking_id: ""
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Nye Warburton"
+
+
+# External gems
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+
+exclude:
+  - "/vendor/"
+
+# Collections
+collections:
+  - talks
