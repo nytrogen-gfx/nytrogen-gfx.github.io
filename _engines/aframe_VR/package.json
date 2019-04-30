@@ -11,9 +11,9 @@
   "author": "Stephen Buchanan",
   "license": "ISC",
   "dependencies": {
-    "aframe": "^0.7.1"
+    "aframe": "^0.9.1"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.4.1"
+    "parcel-bundler": "^1.12.3"
   }
 }
