@@ -8,7 +8,7 @@ permalink: /landing/
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-### Do you have en engine at the core of your computer graphics pipeline?
+### Do you have an engine at the core of your computer graphics pipeline?
 - You need one.
 ### Are you running agile processes for your content development?
 - You had better be.
