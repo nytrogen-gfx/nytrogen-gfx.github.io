@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Are you Ready for Real Time?
-permalink: /about/
+permalink: /landing/
 ---
 
 <p class="message">
