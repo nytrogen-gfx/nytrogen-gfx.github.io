@@ -1,40 +1,44 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE HTML>
+<!--
+	Eventually by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Nytrogen LLC. - Accelerating Real Time Animation</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="comingsoon/assets/css/main.css" />
+	</head>
+	<body class="is-preload">
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+		<!-- Header -->
+			<header id="header">
+				<h1>Nytrogen</h1>
+				<p>We're on a mission to bring animation into real time.<br />
+				Leave your email to know when we begin.</p>
+			</header>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+		<!-- Signup Form -->
+			<form id="signup-form" method="post" action="#">
+				<input type="email" name="email" id="email" placeholder="Email Address" />
+				<input type="submit" value="Sign Up" />
+			</form>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="http://twitter.com/nytrogenGFX" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="http://github.com/nytrogen-gfx" class="icon fa-github"><span class="label">GitHub</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Nytrogen LLC. </li>
+				</ul>
+			</footer>
 
+		<!-- Scripts -->
+			<script src="comingsoon/assets/js/main.js"></script>
 
-
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+	</body>
+</html>
