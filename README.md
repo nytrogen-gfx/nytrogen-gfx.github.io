@@ -1,7 +1,6 @@
 # Nytrogen
 
 
-
 ## Contents
 
 - [Usage](#usage)
@@ -17,11 +16,7 @@
 ## Usage
 
 
-
-
 ## Options
-
-
 
 ### Sidebar menu
 
@@ -32,26 +27,9 @@ Create a list of nav links in the sidebar by assigning each Jekyll page the corr
 layout: page
 title: About
 ---
-```
-
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
-
-
-### Themes
-
-
-<body class="theme-base-08">
-  ...
-</body>
-```
-
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
-
+``
 
 ### Reverse layout
-
-![Lanyon with reverse layout](https://f.cloud.github.com/assets/98681/1825265/be03f2e4-71b0-11e3-89f1-360705524495.png)
-![Lanyon with reverse layout and open sidebar](https://f.cloud.github.com/assets/98681/1825268/be056174-71b0-11e3-88c8-5055bca4307f.png)
 
 Reverse the page orientation with a single class.
 
@@ -60,7 +38,6 @@ Reverse the page orientation with a single class.
   ...
 </body>
 ```
-
 
 ### Sidebar overlay instead of push
 
@@ -81,7 +58,6 @@ It's also available for a reversed layout when you add both classes:
   ...
 </body>
 ```
-
 ### Sidebar open on page load
 
 Show an open sidebar on page load by modifying the `<input>` tag within the `sidebar.html` layout to add the `checked` boolean attribute:
@@ -89,7 +65,6 @@ Show an open sidebar on page load by modifying the `<input>` tag within the `sid
 ```html
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
 ```
-
 Using Liquid you can also conditionally show the sidebar open on a per-page basis. For example, here's how you could have it open on the homepage only:
 
 ```html
