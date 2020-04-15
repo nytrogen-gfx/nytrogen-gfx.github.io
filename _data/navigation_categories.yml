@@ -3,13 +3,13 @@
 - heading: Browse All Topics
   categories:
     - title: Getting Started
-      desc: Get your account up and running in just few easy steps
+      desc: How to get up and going
       icon: settings
 
-    - title: Account and Billing
-      desc: Managing your account, creating new users and exporting data
+    - title: Tools
+      desc: What to use, how to get going
       icon: credit-card
 
-    - title: Troubleshooting
-      desc: Answers to most common configuration issues
+    - title: Resources
+      desc: ML Models, Tutorials, Information
       icon: cog

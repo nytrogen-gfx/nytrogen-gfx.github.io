@@ -15,8 +15,8 @@ featured:
     title: Featured Articles
     tag: featured
 cta:
-    title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
-    button_text: Contact Us   
+    title: Interested in Collaborating or Contributing?
+    subtitle: Please Get in Touch!
+    button_text: Contact Me   
     button_url: /contact/      
 ---
