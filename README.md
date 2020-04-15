@@ -1,7 +1,10 @@
 
 
-## First of All I Would like to Thank You for Your Purchase, You Are Awesome!
+## Nytrogen - Machine Learning and Animation
 
 ### Documentation
-Product documentation is available online [https://docs.unbound.studio/desk-jekyll-helpdesk-theme/](https://docs.unbound.studio/desk-jekyll-helpdesk-theme/). 
+A documentation site for research
+Machine Learning / Animation
 
+Using this template:
+Product documentation is available online [https://docs.unbound.studio/desk-jekyll-helpdesk-theme/](https://docs.unbound.studio/desk-jekyll-helpdesk-theme/).

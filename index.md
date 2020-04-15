@@ -1,7 +1,7 @@
 ---
 layout: help
-title: How Can We Help?
-subtitle: Find advice and answers from our support team fast or get in touch
+title: Nytrogen
+subtitle: Machine Learning and Animation
 hero:
     background: "#663399"
     image: header_2.jpg
