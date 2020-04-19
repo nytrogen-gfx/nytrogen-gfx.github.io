@@ -1,7 +1,7 @@
 ---
 layout: help
-title: Nytrogen
-subtitle: Machine Learning and Animation
+title: Nytrogen Graphics
+subtitle: Machine Learning Research for Animation
 hero:
     background: "#663399"
     image: header_2.jpg
@@ -15,8 +15,8 @@ featured:
     title: Featured Articles
     tag: featured
 cta:
-    title: Interested in Collaborating or Contributing?
-    subtitle: Please Get in Touch!
+    title: Collaborate / Contribute?
+    subtitle: Get in Touch!
     button_text: Contact Me   
     button_url: /contact/      
 ---

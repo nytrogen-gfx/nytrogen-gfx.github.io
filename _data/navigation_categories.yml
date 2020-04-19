@@ -2,14 +2,14 @@
 
 - heading: Browse All Topics
   categories:
-    - title: Getting Started
-      desc: How to get up and going
+    - title: Start Here
+      desc: First steps in ML / Animation
       icon: settings
 
     - title: Tools
-      desc: What to use, how to get going
-      icon: credit-card
+      desc: Software and ML Models
+      icon: cog
 
     - title: Resources
-      desc: ML Models, Tutorials, Information
-      icon: cog
+      desc: Tutorials / Research / Info
+      icon: settings
