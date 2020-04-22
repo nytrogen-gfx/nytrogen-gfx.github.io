@@ -1,7 +1,8 @@
 ---
 layout: help
 title: Nytrogen
-subtitle: Machine Learning Research for Animation
+subtitle: To make Machine Learning for Animation:
+ Simple, Fast and Fun
 hero:
     background: "#8f8f8f"
     image: header_2.jpg
@@ -12,7 +13,7 @@ hero:
 category:
     columns: 3
 featured:
-    title: Starter Pack
+    title: Featured
     tag: featured
 cta:
     title: Collaborate / Contribute?
