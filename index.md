@@ -1,18 +1,18 @@
 ---
 layout: help
-title: Nytrogen Graphics
+title: Nytrogen
 subtitle: Machine Learning Research for Animation
 hero:
-    background: "#663399"
+    background: "#8f8f8f"
     image: header_2.jpg
-    overlay: "linear-gradient(-200deg, rgba(101, 51, 153, 0.9) 0%, rgba(90, 51, 153, 0.9) 53%, rgba(71, 51, 153, 0.9) 100%)"
+    overlay: "linear-gradient(-200deg, rgba(101, 51, 153, 0.9) 0%, rgba(90, 51, 153, 0.9) 40%, rgba(71, 51, 153, 0.9) 100%)"
     align: center
     text: light
     search: true
 category:
     columns: 3
 featured:
-    title: Featured Articles
+    title: Starter Pack
     tag: featured
 cta:
     title: Collaborate / Contribute?

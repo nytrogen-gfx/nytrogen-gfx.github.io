@@ -7,9 +7,9 @@
       icon: settings
 
     - title: Tools
-      desc: Software and ML Models
+      desc: Software and Workflow
       icon: cog
 
     - title: Resources
-      desc: Tutorials / Research / Info
+      desc: Model Information / Tutorials
       icon: settings
