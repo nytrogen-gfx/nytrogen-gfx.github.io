@@ -3,13 +3,25 @@
 - heading: Browse All Topics
   categories:
     - title: Start Here
-      desc: First steps in ML / Animation
+      desc: First steps
       icon: settings
 
     - title: Tools
-      desc: Software and Workflow
+      desc: Software
       icon: cog
 
-    - title: Resources
-      desc: Model Information / Tutorials
+    - title: Models
+      desc: ML models
+      icon: settings
+
+    - title: Workflow
+      desc: Pipeline, Naming, Tricks
+        icon: settings
+
+    - title: Tutorials
+      desc: Classes, Video and Info
+      icon: cog
+
+    - title: Motion Datasets
+      desc: Soon
       icon: settings
