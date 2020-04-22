@@ -1,8 +1,7 @@
 ---
 layout: help
 title: Nytrogen
-subtitle: To make Machine Learning for Animation:
- Simple, Fast and Fun
+subtitle: To make Machine Learning for Animation: Simple, Fast and Fun
 hero:
     background: "#8f8f8f"
     image: header_2.jpg
