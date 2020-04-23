@@ -1,7 +1,7 @@
 ---
-layout: help
+layout: home
 title: Nytrogen
-subtitle: Machine Learning for Animation!
+subtitle: Machine Learning Research for Animation
 hero:
     background: "#8f8f8f"
     image: header_2.jpg
