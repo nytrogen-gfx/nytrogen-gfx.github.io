@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Nytrogen
-description:        Machine Learning Research for Animators
+title:              Desk
+description:        Knowledge base Jekyll theme.
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -15,7 +15,7 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://nytrogen-gfx.github.io/"
+url:                "https://jekyll-theme-desk.netlify.com"
 
 # Site logo, dark and light depending on page hero text setting dark/light
 logo_image:
@@ -24,28 +24,28 @@ logo_image:
 
 # Author settings, displayed on about page
 author:
-    name:           Nye Warburton
+    name:           John Smith
     email:
-    website:        http://nyewarburton.com
-    facebook:
+    website:
+    facebook:       https://www.facebook.com/
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:
+    instagram:      https://www.instagram.com/
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/nyewarburton
-    vimeo:          
-    youtube:        https://www.youtube.com/channel/UCNzVeM72UeRLBUksehOXXFQ
+    twitter:        https://twitter.com/
+    vimeo:          https://vimeo.com/
+    youtube:
 
 # Social share buttons
-twitter_username:   nyewarburton
-github_username:    NyeGuy
+twitter_username:   somename
+github_username:    somename
 
 # Default footer image settings
 footer:
-    copyright:      Template Made by <a href="https://unbound.studio/">Unbound Studio</a> in Rome, Italy.
+    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Rome, Italy.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:

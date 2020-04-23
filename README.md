@@ -1,13 +1,7 @@
 
 
-## Nytrogen - Machine Learning Research for Animators
+## First of All I Would like to Thank You for Your Purchase, You Are Awesome!
 
 ### Documentation
-A documentation website for research
-Machine Learning / Animation
+Product documentation is available online [https://docs.unbound.studio/desk-jekyll-helpdesk-theme/](https://docs.unbound.studio/desk-jekyll-helpdesk-theme/). 
 
-Using this template:
-Product documentation is available online [https://docs.unbound.studio/desk-jekyll-helpdesk-theme/](https://docs.unbound.studio/desk-jekyll-helpdesk-theme/).
-
-Please consider collaborating or contributing.
-I can be found on twitter @nyewarburton

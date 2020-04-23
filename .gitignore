@@ -1,10 +1,8 @@
-# Created by https://www.gitignore.io/api/jekyll
-# Edit at https://www.gitignore.io/?templates=jekyll
+# OS or Editor folders
+.DS_Store
+node_modules
 
-### Jekyll ###
-_site/
-.sass-cache/
-.jekyll-cache/
+# Jekyllg
+_site
+.sass-cache
 .jekyll-metadata
-
-# End of https://www.gitignore.io/api/jekyll

@@ -1,23 +1,22 @@
 ---
-layout: home
-title: Nytrogen
-subtitle: Machine Learning Research for Animation
+layout: help
+title: How Can We Help?
+subtitle: Find advice and answers from our support team fast or get in touch
 hero:
-    background: "#8f8f8f"
+    background: "#663399"
     image: header_2.jpg
-    overlay: "linear-gradient(-200deg, rgba(101, 51, 153, 0.9) 0%, rgba(90, 51, 153, 0.9) 40%, rgba(71, 51, 153, 0.9) 100%)"
+    overlay: "linear-gradient(-200deg, rgba(101, 51, 153, 0.9) 0%, rgba(90, 51, 153, 0.9) 53%, rgba(71, 51, 153, 0.9) 100%)"
     align: center
     text: light
     search: true
 category:
     columns: 3
-    rows: 2
 featured:
-    title: Featured
+    title: Featured Articles
     tag: featured
 cta:
-    title: Can't ya tell? Just getting started.
-    subtitle: Leave your email to be the first updated.
-    button_text: Yeah!   
+    title: Didn't find an answer to your question?
+    subtitle: Get in touch with us for details on additional services and custom work pricing
+    button_text: Contact Us   
     button_url: /contact/      
 ---

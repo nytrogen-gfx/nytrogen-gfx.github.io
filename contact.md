@@ -1,9 +1,9 @@
 ---
 layout: contact
-title: Questions?
+title: Got Any Questions
 permalink: /contact/
 formspree:
-    email: soon@gmail.com
+    email: my_name@gmail.com
     redirect: /thanks/
 ---
 
