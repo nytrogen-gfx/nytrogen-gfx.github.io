@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tools - intro
+title: tools - mission
 categories: [Start Here, Resources]
 tags: featured
 author: Nye
@@ -11,8 +11,9 @@ author: Nye
 * TOC
 {:toc}
 
-Mission:
-An overview of the tool landscape for animators to get started:
+Tools | Mission
+To provide an overview of the tool landscape for animators to get started
+in machine learning research and application:
 
 - Runway ML
 - Scraping Tools
