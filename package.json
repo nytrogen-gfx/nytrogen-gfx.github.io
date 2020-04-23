@@ -1,7 +1,7 @@
 {
   "name": "memoir",
   "version": "1.0.0",
-  "description": "Blogging Jekyll theme.",
+  "description": "Nytrogen Machine Learning Research for Animation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Desk
-description:        Knowledge base Jekyll theme.
+title:              Nytrogen
+description:        Machine Learning Research for Animation
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -24,28 +24,28 @@ logo_image:
 
 # Author settings, displayed on about page
 author:
-    name:           John Smith
+    name:           Nye Warburton
     email:
     website:
-    facebook:       https://www.facebook.com/
+    facebook:
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      https://www.instagram.com/
+    instagram:
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/
+    twitter:        https://twitter.com/nyewarburton
     vimeo:          https://vimeo.com/
-    youtube:
+    youtube:        https://www.youtube.com/channel/UCNzVeM72UeRLBUksehOXXFQ?view_as=subscriber
 
 # Social share buttons
-twitter_username:   somename
-github_username:    somename
+twitter_username:   nyewarburton
+github_username:    nytrogen-gfx
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Rome, Italy.
+    copyright:      Made by these cool peeps<a href="https://unbound.studio/">Unbound Studio</a> in Rome, Italy.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:

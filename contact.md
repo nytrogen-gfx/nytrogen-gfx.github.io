@@ -1,9 +1,9 @@
 ---
 layout: contact
-title: Got Any Questions
+title: Yeah, let's do it!
 permalink: /contact/
 formspree:
-    email: my_name@gmail.com
+    email: nytrogengraphics@gmail.com
     redirect: /thanks/
 ---
 

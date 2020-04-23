@@ -1,7 +1,7 @@
 ---
 layout: help
-title: How Can We Help?
-subtitle: Find advice and answers from our support team fast or get in touch
+title: Nytrogen
+subtitle: Easy to find answers about Machine Learning for Animators
 hero:
     background: "#663399"
     image: header_2.jpg
@@ -11,12 +11,13 @@ hero:
     search: true
 category:
     columns: 3
+    rows: 2
 featured:
-    title: Featured Articles
+    title: Featured
     tag: featured
 cta:
-    title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
-    button_text: Contact Us   
+    title: I'm sure you can tell. I'm just getting going...
+    subtitle: Leave your email for new experiments and updates!
+    button_text: Yeah!   
     button_url: /contact/      
 ---
