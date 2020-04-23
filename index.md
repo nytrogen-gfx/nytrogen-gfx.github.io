@@ -11,12 +11,13 @@ hero:
     search: true
 category:
     columns: 3
+    rows: 2
 featured:
     title: Featured
     tag: featured
 cta:
-    title: Collaborate / Contribute?
-    subtitle: Get in Touch!
-    button_text: Contact Me   
+    title: Can't ya tell? Just getting started.
+    subtitle: Leave your email to be the first updated.
+    button_text: Yeah!   
     button_url: /contact/      
 ---
