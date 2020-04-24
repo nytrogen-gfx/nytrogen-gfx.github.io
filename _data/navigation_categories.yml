@@ -4,7 +4,7 @@
   categories:
     - title: Start
       desc: Jump into ML Anim
-      icon: settings
+      icon: bolt
 
     - title: Tools
       desc: Software for ML Anim
@@ -12,16 +12,16 @@
 
     - title: Models
       desc: For Animating
-      icon: settings
+      icon: album
 
     - title: Tutorials
       desc: Math, Animation, Data Analytics
-      icon: cog
+      icon: heart
 
     - title: Experiments
       desc: Tests, Weirdness, Fun
-      icon: settings
+      icon: question
 
     - title: MotionDB
       desc: Motion Data for Use
-      icon: cog
+      icon: database
