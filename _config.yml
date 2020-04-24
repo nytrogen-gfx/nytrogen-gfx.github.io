@@ -45,7 +45,6 @@ github_username:    nytrogen-gfx
 
 # Default footer image settings
 footer:
-    The Nytrogen Github and Database are Open Source and licensed under Creative Commons.
     copyright:      Template by these cool peeps<a href="https://unbound.studio/">Unbound Studio</a> in Rome, Italy.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
