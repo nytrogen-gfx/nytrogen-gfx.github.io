@@ -79,3 +79,5 @@ sass:
 collections:
   faqs:
     output: false
+
+theme: jekyll-theme-minimal
