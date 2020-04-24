@@ -6,5 +6,7 @@ formspree:
     email: nytrogengraphics@gmail.com
     redirect: /thanks/
 ---
+I'm super pumped that you are interested in getting more information. I'll be sending out
+emails with new youtube content and updates to the database. 
 
-Submit the form and confirm your email address at [FormSpree](https://formspree.io/). Then add the following lines to contact page YAML Front Matter.
+ [FormSpree](https://formspree.io/)

@@ -24,7 +24,7 @@ logo_image:
 
 # Author settings, displayed on about page
 author:
-    name:           Nye Warburton
+    name:           Nytrogen
     email:
     website:
     facebook:
@@ -36,7 +36,7 @@ author:
     linkedin:
     pinterest:
     twitter:        https://twitter.com/nyewarburton
-    vimeo:          https://vimeo.com/
+    vimeo:
     youtube:        https://www.youtube.com/channel/UCNzVeM72UeRLBUksehOXXFQ?view_as=subscriber
 
 # Social share buttons
