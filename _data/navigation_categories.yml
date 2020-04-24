@@ -3,25 +3,25 @@
 - heading: Sections
   categories:
     - title: Start
-      desc: Get your account up and running in just few easy steps
+      desc: Jump into ML Anim
       icon: settings
 
     - title: Tools
-      desc: Managing your account, creating new users and exporting data
-      icon: credit-card
-
-    - title: Models
-      desc: Answers to most common configuration issues
+      desc: Software for ML Anim
       icon: cog
 
-    - title: Tutorials
-      desc: Get your account up and running in just few easy steps
+    - title: Models
+      desc: For Animating
       icon: settings
 
+    - title: Tutorials
+      desc: Math, Animation, Data Analytics
+      icon: cog
+
     - title: Experiments
-      desc: Managing your account, creating new users and exporting data
-      icon: credit-card
+      desc: Tests, Weirdness, Fun
+      icon: settings
 
     - title: MotionDB
-      desc: Soon
+      desc: Motion Data for Use
       icon: cog
