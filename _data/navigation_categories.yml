@@ -1,15 +1,27 @@
 # Categories home page navigation
 
-- heading: Browse All Topics
+- heading: Sections
   categories:
-    - title: Getting Started
+    - title: Start
       desc: Get your account up and running in just few easy steps
       icon: settings
 
-    - title: Account and Billing
+    - title: Tools
       desc: Managing your account, creating new users and exporting data
       icon: credit-card
 
-    - title: Troubleshooting
+    - title: Models
       desc: Answers to most common configuration issues
+      icon: cog
+
+    - title: Tutorials
+      desc: Get your account up and running in just few easy steps
+      icon: settings
+
+    - title: Experiments
+      desc: Managing your account, creating new users and exporting data
+      icon: credit-card
+
+    - title: MotionDB
+      desc: Soon
       icon: cog
