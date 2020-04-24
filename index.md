@@ -1,7 +1,7 @@
 ---
 layout: help
 title: Nytrogen
-subtitle: Easy to find answers about Machine Learning for Animators
+subtitle: Machine Learning Research for Animation
 hero:
     background: "#663399"
     image: header_2.jpg
@@ -16,7 +16,7 @@ featured:
     title: Featured
     tag: featured
 cta:
-    title: I'm sure you can tell. I'm just getting going...
+    title: The fun is yet to come...
     subtitle: Leave your email for new experiments and updates!
     button_text: Yeah!   
     button_url: /contact/      
