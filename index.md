@@ -13,8 +13,8 @@ category:
     columns: 3
     rows: 2
 featured:
-    title: Featured
-    tag: featured
+    title:
+    tag: 
 cta:
     title: The fun is yet to come...
     subtitle: Leave your email for new experiments and updates?
