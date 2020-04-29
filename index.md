@@ -1,7 +1,7 @@
 ---
 layout: help
-title: Nytrogen
-subtitle: Machine Learning Research for Animation
+title: The Nytrogen Project
+subtitle: Machine Learning & Animation
 hero:
     background: "#beced4"
     image: header_3.jpg
@@ -14,7 +14,7 @@ category:
     rows: 2
 featured:
     title:
-    tag: 
+    tag:
 cta:
     title: The fun is yet to come...
     subtitle: Leave your email for new experiments and updates?
