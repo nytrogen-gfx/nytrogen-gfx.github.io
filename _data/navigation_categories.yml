@@ -11,7 +11,7 @@
       icon: cog
 
     - title: Models
-      desc: For Animating
+      desc: Which does What
       icon: album
 
     - title: Tutorials
@@ -23,5 +23,5 @@
       icon: question
 
     - title: MotionDB
-      desc: Motion Data for Use
+      desc: Soon
       icon: database

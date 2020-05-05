@@ -1,11 +1,11 @@
 ---
 layout: help
 title: The Nytrogen Project
-subtitle: Machine Learning & Animation
+subtitle: Machine Learning Resources for Animation
 hero:
     background: "#beced4"
     image: header_3.jpg
-    overlay: "linear-gradient(-200deg, rgba(101, 51, 153, 0.9) 0%, rgba(90, 51, 153, 0.9) 10%, rgba(71, 51, 153, 0.9) 10%)"
+    #overlay: "linear-gradient(-200deg, rgba(101, 51, 153, 0.9) 0%, rgba(90, 51, 153, 0.9) 10%, rgba(71, 51, 153, 0.9) 10%)"
     align: center
     text: light
     search: true
